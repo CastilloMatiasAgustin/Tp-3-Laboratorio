@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1619581864 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\main.cpp
+	<iostream>
+	"Funciones.h"
+
+1619371359 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\include\casa.h
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1619371292 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\src\casa.cpp
+	"Casa.h"
+
+1619376816 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\src\casa_quinta.cpp
+	"Casa_Quinta.h"
+
+1619378036 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\include\casa_quinta.h
+	"Casa.h"
+
+1619378004 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\include\departamento.h
+	"Casa.h"
+
+1619377891 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\src\departamento.cpp
+	"Departamento.h"
+
+1619380789 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\src\locales.cpp
+	"Locales.h"
+
+1619380391 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\include\locales.h
+	"Casa.h"
+
+1619384478 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\src\terrenos.cpp
+	"Terrenos.h"
+
+1619384478 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\include\terrenos.h
+	"Casa.h"
+
+1619584197 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp 3 laboratorio\funciones.h
+	"Casa.h"
+	"Casa_Quinta.h"
+	"Departamento.h"
+	"Locales.h"
+	"Terrenos.h"
+
